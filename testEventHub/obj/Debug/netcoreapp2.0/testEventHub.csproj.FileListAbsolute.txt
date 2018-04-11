@@ -1,0 +1,11 @@
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\bin\Debug\netcoreapp2.0\testEventHub.deps.json
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\bin\Debug\netcoreapp2.0\testEventHub.runtimeconfig.json
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\bin\Debug\netcoreapp2.0\testEventHub.runtimeconfig.dev.json
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\bin\Debug\netcoreapp2.0\testEventHub.dll
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.csprojResolveAssemblyReference.cache
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.csproj.CoreCompileInputs.cache
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.AssemblyInfoInputs.cache
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.AssemblyInfo.cs
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\bin\Debug\netcoreapp2.0\testEventHub.pdb
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.dll
+C:\docs\CODE\dotcore-test-event-hub\testEventHub\testEventHub\obj\Debug\netcoreapp2.0\testEventHub.pdb
